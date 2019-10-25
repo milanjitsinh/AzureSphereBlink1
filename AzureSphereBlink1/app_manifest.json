@@ -1,0 +1,14 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "AzureSphereBlink1",
+  "ComponentId" : "ae7227b6-bc82-431c-8116-8764cadc84f6",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "Gpio": [ 9 ],
+    "Uart": [],
+    "WifiConfig": false
+  },
+  "ApplicationType":"Default"
+}
